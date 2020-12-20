@@ -1,0 +1,33 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "model": "Feijão Tio João",
+      "color": "Preto",
+      "price": 6.99
+    },
+    {
+      "id": 2,
+      "model": "Arroz Tio João",
+      "color": "Branco",
+      "price": 4.99
+    },
+    {
+      "id": 3,
+      "model": "Açúcar Fazenda",
+      "color": "Branco",
+      "price": 3.49
+    },
+    {
+      "model": "Água mineral galão 20L",
+      "color": "branco",
+      "price": 5.99,
+      "id": 4
+    },
+    {
+      "model": "Biscoito Cream cracker Vitarella",
+      "price": 3.99,
+      "id": 5
+    }
+  ]
+}
